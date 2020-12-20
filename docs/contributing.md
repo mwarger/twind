@@ -1,6 +1,6 @@
 # Contributing
 
-If you have made it this far then thanks for checkin gout Twind. We hoped you have enjoyed learning about Tailwind-in-JS and would love to hear what you think!
+If you have made it this far then thanks for checking out Twind. We hoped you have enjoyed learning about Tailwind-in-JS and would love to hear what you think!
 
 Please show your appreciation by sharing the project on twitter or by starring it on GitHub.
 
@@ -30,7 +30,6 @@ Below is an outline of some todos, packages, plugins and ideas that we would lik
 
 ## Packages / Modules
 
-- twind/styled - like styled components (https://github.com/cristianbote/goober/tree/master/benchmarks)
 - @twind/server - for server side rendering
   - extract critical css
   - support for shim
@@ -39,6 +38,7 @@ Below is an outline of some todos, packages, plugins and ideas that we would lik
 - @twind/eslint-plugin - nice to have
 - @twind/prettier-plugin - nice to have
 - @twind/tw.macro - maybe?
+- @twind/babel-plugin https://github.com/emotion-js/emotion/tree/master/packages/babel-plugin
 - @twind/extensions
   - border gradients: https://t.co/W7YVS7f0Jp
   - scroll snap: https://t.co/7xqvpFQ9Qu
